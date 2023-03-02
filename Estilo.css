@@ -1,11 +1,17 @@
-div#caja1{
-	background-color: green;
-	display: flex;
-	width: 650px;
-	border: 1px solid black;
+html{
+	background-color: #000000 ;
 }
 
-div#imagen{
+div#caja{
+	background-color: #003300
+}
+
+div#caja1-1{
+	display: flex;
+	border: 5px groove #330000;
+}
+
+div#caja2-1{
 	width: 200px;
 	height: 200px;
 }
@@ -15,9 +21,6 @@ img{
 	height: 100%;
 }
 
-
-
-
-
-
-
+div#caja1-2{
+	border: 5px groove #330000;
+}
